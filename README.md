@@ -12,7 +12,7 @@ Este é um projeto simples de landing page estática desenvolvido para apresenta
 ## 📂 Estrutura do Projeto
  - index.html
  - README.md
- - /img 
+ - /img
    
 ## 🌐 Como Visualizar no Navegador
 
@@ -20,3 +20,5 @@ Este é um projeto simples de landing page estática desenvolvido para apresenta
 2.  Ou baixe/clone este repositório:
    ```bash
    git clone https://github.com/BrenoMdC/Sistematizacao_PDW.git
+
+   OBS.: Pasta .github/workflows destinada apenas a atualizar automaticamente a landing page para visualização no GitHub Pages.
