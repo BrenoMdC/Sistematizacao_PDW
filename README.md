@@ -12,6 +12,7 @@ Este é um projeto simples de landing page estática desenvolvido para apresenta
 ## 📂 Estrutura do Projeto
  - index.html
  - README.md
+ - /img 
    
 ## 🌐 Como Visualizar no Navegador
 
