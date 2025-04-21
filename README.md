@@ -15,7 +15,7 @@ Este é um projeto simples de landing page estática desenvolvido para apresenta
    
 ## 🌐 Como Visualizar no Navegador
 
-1.  Acesse: 
+1.  Acesse: https://brenomdc.github.io/Sistematizacao_PDW/
 2.  Ou baixe/clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/BrenoMdC/Sistematizacao_PDW.git
